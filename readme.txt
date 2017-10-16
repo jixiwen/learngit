@@ -3,8 +3,6 @@ Git is free software.
 GG
 MM
 edit
-<<<<<<< HEAD
 hahah
-=======
 lol
->>>>>>> dev
+
